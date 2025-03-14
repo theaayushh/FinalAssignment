@@ -5,7 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Humber College/Semester2/GameEngine/GitHub/FinalAssignment/FinalAssignment/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Humber College/Semester2/GameEngine/GitHub/FinalAssignment/FinalAssignment/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Humber College/Semester2/GameEngine/GitHub/FinalAssignment/FinalAssignment/Content/InterfaceWidgets/StartMenu.uasset",
+				"D:/Humber College/Semester2/GameEngine/GitHub/FinalAssignment/FinalAssignment/Content/Images/Background_Image.uasset",
+				"D:/Humber College/Semester2/GameEngine/GitHub/FinalAssignment/FinalAssignment/Content/Level1.umap",
+				"D:/Humber College/Semester2/GameEngine/GitHub/FinalAssignment/FinalAssignment/Content/Levels/Level1.umap",
+				"D:/Humber College/Semester2/GameEngine/GitHub/FinalAssignment/FinalAssignment/Content/BluePrints/StartMenu.uasset",
+				"D:/Humber College/Semester2/GameEngine/GitHub/FinalAssignment/FinalAssignment/Content/BluePrints/StartMenuController.uasset",
+				"D:/Humber College/Semester2/GameEngine/GitHub/FinalAssignment/FinalAssignment/Content/BluePrints/GameMode.uasset",
+				"D:/Humber College/Semester2/GameEngine/GitHub/FinalAssignment/FinalAssignment/Content/BluePrints/StartMenuGameMode.uasset",
+				"D:/Humber College/Semester2/GameEngine/GitHub/FinalAssignment/FinalAssignment/Content/Levels/MainMap.umap",
+				"D:/Humber College/Semester2/GameEngine/GitHub/FinalAssignment/FinalAssignment/Content/Levels/StartMenuMap.umap"
 			]
 		}
 	]
