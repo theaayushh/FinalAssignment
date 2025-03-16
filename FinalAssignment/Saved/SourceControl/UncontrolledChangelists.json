@@ -5,10 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/nebul/OneDrive/Documents/College/Semester 2/Engines/finalAssignment/FinalAssignment/FinalAssignment/Content/BluePrints/wrenchBP.uasset",
 				"C:/Users/nebul/OneDrive/Documents/College/Semester 2/Engines/finalAssignment/FinalAssignment/FinalAssignment/Content/level1Blueprints/wrenchBP.uasset",
 				"C:/Users/nebul/OneDrive/Documents/College/Semester 2/Engines/finalAssignment/FinalAssignment/FinalAssignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/nebul/OneDrive/Documents/College/Semester 2/Engines/finalAssignment/FinalAssignment/FinalAssignment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/4Y/4VWG1KJ9V8C0ICB8J4YAOO.uasset",
+				"C:/Users/nebul/OneDrive/Documents/College/Semester 2/Engines/finalAssignment/FinalAssignment/FinalAssignment/Content/level1Blueprints/powerBoxBP.uasset",
+				"C:/Users/nebul/OneDrive/Documents/College/Semester 2/Engines/finalAssignment/FinalAssignment/FinalAssignment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HK/IGZCBQJI760W5JSZWAPXBK.uasset",
+				"C:/Users/nebul/OneDrive/Documents/College/Semester 2/Engines/finalAssignment/FinalAssignment/FinalAssignment/Content/BluePrints/wrenchBP.uasset",
 				"D:/Humber College/Semester2/GameEngine/GitHub/FinalAssignment/FinalAssignment/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Humber College/Semester2/GameEngine/GitHub/FinalAssignment/FinalAssignment/Content/InterfaceWidgets/StartMenu.uasset",
 				"D:/Humber College/Semester2/GameEngine/GitHub/FinalAssignment/FinalAssignment/Content/Images/Background_Image.uasset",
