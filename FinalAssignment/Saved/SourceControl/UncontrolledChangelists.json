@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/austi/OneDrive/Documents/GitHub/FinalAssignment/FinalAssignment/Content/ThirdPerson/Blueprints/ThirdPersonController.uasset",
+				"C:/Users/austi/OneDrive/Documents/GitHub/FinalAssignment/FinalAssignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/austi/OneDrive/Documents/GitHub/FinalAssignment/FinalAssignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/austi/OneDrive/Documents/GitHub/FinalAssignment/FinalAssignment/Content/InterfaceWidgets/healthbar.uasset",
+				"C:/Users/austi/OneDrive/Documents/GitHub/FinalAssignment/FinalAssignment/Content/InterfaceWidgets/pausemenu.uasset",
+				"C:/Users/austi/OneDrive/Documents/GitHub/FinalAssignment/FinalAssignment/Content/InterfaceWidgets/deathmenu.uasset",
 				"C:/Users/nebul/OneDrive/Documents/College/Semester 2/Engines/finalAssignment/FinalAssignment/FinalAssignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/nebul/OneDrive/Documents/College/Semester 2/Engines/finalAssignment/FinalAssignment/FinalAssignment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/WK/QUQM9CROCAXRC998DKAGVO.uasset",
 				"C:/Users/nebul/OneDrive/Documents/College/Semester 2/Engines/finalAssignment/FinalAssignment/FinalAssignment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/3X/MAS9FXH5ZHNI4U3TYYE02T.uasset",
